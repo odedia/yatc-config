@@ -1,2 +1,2 @@
 api:
-  gateway: "https://yatc-gateway-rested-panda.cfapps.io"
+  gateway: "https://yatc-gateway.apps.pcf.pvtl.dev"
